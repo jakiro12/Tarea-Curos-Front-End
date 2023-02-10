@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.uno{
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}
+.dos{
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}
+.tres{
+    width: 150px;
+    height: 150px;
+    border: 2px solid red;
+}

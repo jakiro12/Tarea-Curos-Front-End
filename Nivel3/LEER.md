@@ -1,0 +1,1 @@
+Capture los datos ingresados dentro del input  e imprima en consola cada valor e imprima cada valor enviado dentro de un array
